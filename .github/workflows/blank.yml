@@ -1,0 +1,10 @@
+myqr.run(
+    words = 'http://weixin.qq.com/r/kzlje9TEE4lsrZAY92yB',
+    version = 5,
+    level = 'H',
+    picture = r'C:\Users\Administrator\Desktop\MyTask\shell.gif',
+    colorized = True,
+    contrast = 1.0,
+    brightness = 1.0,
+    save_name = r'C:\Users\Administrator\Desktop\MyTask\python.gif',
+)
